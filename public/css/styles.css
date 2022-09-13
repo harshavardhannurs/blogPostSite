@@ -1,0 +1,36 @@
+.navbar{
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight:400;
+  letter-spacing:0.5px;
+}
+
+.navbar-brand:hover{
+  color:#000;
+}
+
+.nav-link:hover{
+  color:#000;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-toggler{
+  border-color:transparent;
+}
+
+label{
+  font-weight: bold;
+}
+
+footer{
+  text-align: center;
+  position: absolute;
+  bottom:0;
+  width:auto;
+
+}
